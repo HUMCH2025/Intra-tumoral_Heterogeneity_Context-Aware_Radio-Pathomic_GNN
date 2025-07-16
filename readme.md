@@ -1,6 +1,6 @@
 # Context-AwareRadio-Pathomic Graph
 ####
-$~~~~$Code of our paper __"Context-Aware Radio-Pathomic Graph Deep Learning of Intra-tumoral Heterogeneity for Predicting Breast Cancer Neoadjuvant Therapy Response"__
+$~~~~$ Code of our paper __"Context-Aware Radio-Pathomic Graph Deep Learning of Intra-tumoral Heterogeneity for Predicting Breast Cancer Neoadjuvant Therapy Response"__
 ####
 <img src=".\\pic\\Visual_abstract.png"/>
 
