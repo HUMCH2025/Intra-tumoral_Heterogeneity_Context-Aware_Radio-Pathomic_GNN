@@ -33,7 +33,7 @@ $~~~~$ You can find all the code in this section in the file ".\\Interpretations
 
 ## Requirements
 
-The below operations implemented in Python v.3.9.12
+$~~~~$ The below operations implemented in Python v.3.9.12
 - torch == 1.13.1+cu117
 - torchvision == 0.14.1+cu117
 - torchaudio == 0.13.1
@@ -49,4 +49,4 @@ The below operations implemented in Python v.3.9.12
 - shapely == 2.0.3
 - scipy == 1.8.1
 
-To install requirements, run `pip install -r requirements.txt`
+$~~~~$ To install requirements, run `pip install -r requirements.txt`
